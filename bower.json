@@ -1,0 +1,25 @@
+{
+  "name": "siggyf-openlayers",
+  "version": "2.13.2-dev",
+  "homepage": "https://github.com/SiggyF/openlayers",
+  "authors": [
+    "Fedor Baart <fedor.baart@deltares.nl>"
+  ],
+  "description": "Fork of openlayers, with an updated WPS client",
+  "main": "build/OpenLayers.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "openlayers",
+    "fork"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
